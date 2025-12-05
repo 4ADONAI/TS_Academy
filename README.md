@@ -1,1 +1,1 @@
-This is my repository contains my HTML CV creation assigment
+This repository contains my HTML CV creation assigment
